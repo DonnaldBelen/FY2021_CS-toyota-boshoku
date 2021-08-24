@@ -1,0 +1,5 @@
+*.DS_Store
+src/azure_kinect_dk/face_*
+resource/sound
+__pycache__
+COLCON_IGNORE
